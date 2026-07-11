@@ -47,17 +47,17 @@
     <td width="33%">
       <h4>🌐 Network Traffic Scanner</h4>
       <p>A basic automated tool for monitoring and analyzing live network traffic in real time.</p>
-      <p>🔗 <a href="#">Add your repo link here</a></p>
+      <p>🔗 <a href="https://github.com/Sarbojit482/Traffic-Network-Analyzer">link</a></p>
     </td>
     <td width="33%">
       <h4>🔍 Port Scanner</h4>
       <p>Identifies open ports on a target machine — a hands-on dive into how scanning tools like Nmap work under the hood.</p>
-      <p>🔗 <a href="#">Add your repo link here</a></p>
+      <p>🔗 <a href="https://github.com/Sarbojit482/Nmap-Scanning-Tool">link</a></p>
     </td>
     <td width="33%">
       <h4>⌨️ Keylogger</h4>
       <p>Listens for and records keyboard events — built for learning purposes to understand input monitoring and system hooks.</p>
-      <p>🔗 <a href="#">Add your repo link here</a></p>
+      <p>🔗 <a href="https://github.com/Sarbojit482/Keylogger">link</a></p>
     </td>
   </tr>
 </table>
