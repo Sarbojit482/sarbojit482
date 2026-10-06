@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Sarbojit Ghosh 👋🔐</h1>
 
-<h3 align="center">🎓 Student | 💻 Dev Learner | 🛡️ Network Security Enthusiast</h3>
+<h3 align="center">🎓 Student | 💻 Dev Learner | 🛡️ Cybersecurity| Computer forensics  Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them...;Learning+Linux+one+command+at+a+time;Packet+by+packet%2C+port+by+port+🔍;Currently+debugging+life+and+code+😅" alt="Typing SVG" />
